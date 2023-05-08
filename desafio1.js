@@ -83,5 +83,5 @@ productManager.addProduct(
 );
 // console.log(productManager.getProducts())
 // console.log(productManager.getProductById(1))
-console.log(productManager.getProductById(4));
-console.log(productManager.getProductByKey(500, "price"));
+// console.log(productManager.getProductById(4));
+// console.log(productManager.getProductByKey(500, "price"));
